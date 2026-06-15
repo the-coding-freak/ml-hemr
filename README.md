@@ -258,6 +258,6 @@ Original research:
 
 La Gatta, V., Moscato, V., Pennone, M., Postiglione, M., & Sperlí, G.
 
-*Music Recommendation via Hypergraph Embedding*, IEEE Transactions on Neural Networks and Learning Systems, 2023.
+*Music Recommendation via Hypergraph Embedding*, IEEE Transactions on Neural Networks and Learning Systems,2023.
 
 This repository provides an implementation, preprocessing pipeline, and practical optimizations inspired by the published methodology.
