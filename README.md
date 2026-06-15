@@ -54,9 +54,7 @@ Pipeline stages:
 6. Recommendation generation
 7. Evaluation and visualization
 8. Mood-aware user profiling
-
 ---
-
 ## Methodology
 
 The implementation follows the architecture proposed in the original HEMR paper.
